@@ -1,0 +1,8 @@
+Beef Burger                         TK 215
+Beef Burger with Cheese             TK 240
+BBQ Beef Burger                     TK 240
+BBQ Beef Burger with Cheese         TK 265
+Chicken Burger                      TK 195
+Chicken Burger with Cheese          TK 220
+BBQ Chicken Burger                  TK 220
+BBQ Chicken Burger with Cheese      TK 245

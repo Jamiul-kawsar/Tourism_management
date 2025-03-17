@@ -1,0 +1,9 @@
+Egg Fried Rice              TK 159
+Egg Hakka Noodles           TK 209
+Chicken Fried Rice          TK 229
+Chicken Hakka Noodles       TK 279
+Beef Fried Rice             TK 249
+Prawn Fried Rice            TK 299
+Prawn Hakka Noodles         TK 349
+Mixed Fried Rice            TK 249
+Mixed Hakka Noodles         TK 349

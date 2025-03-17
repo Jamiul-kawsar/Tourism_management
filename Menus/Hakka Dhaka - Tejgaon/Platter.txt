@@ -1,0 +1,4 @@
+Platter A               TK 1,369
+Platter B               TK 1,369
+Classic Platter         TK 1,369
+Mega Platter            TK 1,899

@@ -1,0 +1,5 @@
+Credit
+Cash
+Bill: 72000
+Bill: 234000
+Bill: 54000
